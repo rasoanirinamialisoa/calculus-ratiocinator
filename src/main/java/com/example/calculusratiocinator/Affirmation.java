@@ -9,5 +9,6 @@ import lombok.Setter;
 @AllArgsConstructor
 public abstract class Affirmation {
     public abstract boolean estVraieOuFausse();
+
 }
 

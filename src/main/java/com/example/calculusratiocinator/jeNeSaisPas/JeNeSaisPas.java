@@ -7,7 +7,7 @@ public class JeNeSaisPas extends Affirmation {
     public boolean estVraieOuFausse() {
         return false;
     }
-    public String obtenirReponse() {
+    public static String obtenirReponse() {
         return "Je ne sais pas";
     }
 }

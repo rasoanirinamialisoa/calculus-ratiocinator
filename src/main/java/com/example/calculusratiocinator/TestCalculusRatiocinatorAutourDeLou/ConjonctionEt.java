@@ -1,4 +1,4 @@
-package com.example.calculusratiocinator.conjonctionsDeCoordinations;
+package com.example.calculusratiocinator.TestCalculusRatiocinatorAutourDeLou;
 
 import com.example.calculusratiocinator.Affirmation;
 
@@ -10,7 +10,10 @@ public class ConjonctionEt extends ConjonctionsDeCoordinations {
     @Override
     public boolean estVraieOuFausse() {
         return affirmationDebut.estVraieOuFausse() && affirmationFin.estVraieOuFausse();
+
     }
+
+
 }
 
 

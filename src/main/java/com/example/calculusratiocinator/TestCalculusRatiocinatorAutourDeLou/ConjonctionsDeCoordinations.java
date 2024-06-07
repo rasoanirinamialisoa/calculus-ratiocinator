@@ -1,4 +1,4 @@
-package com.example.calculusratiocinator.conjonctionsDeCoordinations;
+package com.example.calculusratiocinator.TestCalculusRatiocinatorAutourDeLou;
 
 import com.example.calculusratiocinator.Affirmation;
 

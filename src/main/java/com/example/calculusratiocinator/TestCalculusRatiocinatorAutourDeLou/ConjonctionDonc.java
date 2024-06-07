@@ -1,4 +1,4 @@
-package com.example.calculusratiocinator.conjonctionsDeCoordinations;
+package com.example.calculusratiocinator.TestCalculusRatiocinatorAutourDeLou;
 
 import com.example.calculusratiocinator.Affirmation;
 
@@ -10,4 +10,5 @@ public class ConjonctionDonc extends ConjonctionsDeCoordinations {
     public boolean estVraieOuFausse() {
         return !(affirmationDebut.estVraieOuFausse() && !affirmationFin.estVraieOuFausse());
     }
+
 }
