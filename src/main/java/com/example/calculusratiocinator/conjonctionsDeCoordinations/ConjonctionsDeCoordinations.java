@@ -9,7 +9,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public abstract class Conjonction extends Affirmation {
+public abstract class ConjonctionsDeCoordinations extends Affirmation {
     protected Affirmation affirmationDebut;
     protected Affirmation affirmationFin;
 

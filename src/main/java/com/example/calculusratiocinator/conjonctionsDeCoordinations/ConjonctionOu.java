@@ -2,7 +2,7 @@ package com.example.calculusratiocinator.conjonctionsDeCoordinations;
 
 import com.example.calculusratiocinator.Affirmation;
 
-public class ConjonctionOu extends Conjonction {
+public class ConjonctionOu extends ConjonctionsDeCoordinations {
     public ConjonctionOu(Affirmation debut, Affirmation fin) {
         super(debut, fin);
     }
